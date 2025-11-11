@@ -17,5 +17,11 @@
 | `/api/articles`           | GET    | Retrieve all articles        |
 
 ## Demo of Collection Run using Newman
+
+This shows a demo run of the collection using **Newman**. An **HTML Extra reporter** can be used to generate a detailed HTML report of all requests.
+
 ![Postman Collection Run using Newman 1](images/Run_newman.png)
 ![Postman Collection Run using Newman 2](images/Run_newman_2.png)
+![Postman Collection Run using Newman 3](images/Html_extra.png)
+![Postman Collection Run using Newman 3](images/Html_extra_2.png)
+
